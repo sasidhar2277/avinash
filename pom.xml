@@ -9,7 +9,7 @@
 
   <name>project-1</name>
   <url>http://maven.apache.org</url>
-<-- git hub webhooks-->
+  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.6</maven.compiler.source>
